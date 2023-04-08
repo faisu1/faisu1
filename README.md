@@ -1,4 +1,4 @@
-![logo](https://github.com/faisu1/faisu1/blob/main/github%20pro%20.png)
+![logo](https://github.com/faisu1/faisu1/blob/main/FAISAL%20.png)
 <h1 align="center">Hi 👋, I'm Faisal Al Islam</h1>
 <h3 align="center"> Aspiring Data Scientist from Bangladesh</h3>
 
